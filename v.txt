@@ -1,3 +1,7 @@
 
 I am different branch
-I am good girl
+I m good girl
+
+I am adding lines to the master
+I m different branch 
+
